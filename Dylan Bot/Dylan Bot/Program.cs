@@ -22,7 +22,7 @@ namespace Dylan_Bot
         {
             discord = new DiscordClient(new DiscordConfiguration
             {
-                Token = "NTg1NjIwMjAxOTE2MjAzMDI4.XPcg8Q.HRvy2J3vJtvE7HA - kZahdpB9REk",
+                Token = " ",
                 TokenType = TokenType.Bot,
                 UseInternalLogHandler = true,
                 LogLevel = LogLevel.Debug
