@@ -1,0 +1,11 @@
+C:\Users\Dylan Danowski\source\repos\Dylan Bot\Dylan Bot\bin\Debug\netcoreapp2.1\Dylan Bot.deps.json
+C:\Users\Dylan Danowski\source\repos\Dylan Bot\Dylan Bot\bin\Debug\netcoreapp2.1\Dylan Bot.runtimeconfig.json
+C:\Users\Dylan Danowski\source\repos\Dylan Bot\Dylan Bot\bin\Debug\netcoreapp2.1\Dylan Bot.runtimeconfig.dev.json
+C:\Users\Dylan Danowski\source\repos\Dylan Bot\Dylan Bot\bin\Debug\netcoreapp2.1\Dylan Bot.dll
+C:\Users\Dylan Danowski\source\repos\Dylan Bot\Dylan Bot\bin\Debug\netcoreapp2.1\Dylan Bot.pdb
+C:\Users\Dylan Danowski\source\repos\Dylan Bot\Dylan Bot\obj\Debug\netcoreapp2.1\Dylan Bot.csprojAssemblyReference.cache
+C:\Users\Dylan Danowski\source\repos\Dylan Bot\Dylan Bot\obj\Debug\netcoreapp2.1\Dylan Bot.csproj.CoreCompileInputs.cache
+C:\Users\Dylan Danowski\source\repos\Dylan Bot\Dylan Bot\obj\Debug\netcoreapp2.1\Dylan Bot.AssemblyInfoInputs.cache
+C:\Users\Dylan Danowski\source\repos\Dylan Bot\Dylan Bot\obj\Debug\netcoreapp2.1\Dylan Bot.AssemblyInfo.cs
+C:\Users\Dylan Danowski\source\repos\Dylan Bot\Dylan Bot\obj\Debug\netcoreapp2.1\Dylan Bot.dll
+C:\Users\Dylan Danowski\source\repos\Dylan Bot\Dylan Bot\obj\Debug\netcoreapp2.1\Dylan Bot.pdb
